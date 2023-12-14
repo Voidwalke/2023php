@@ -1,0 +1,2 @@
+Количество просмотров статей: <strong><?php echo e($articleCount); ?></strong> </br>
+Количество новых комментариев: <strong><?php echo e($commentCount); ?></strong><?php /**PATH /sabakakysaka/resources/views/mail/stat.blade.php ENDPATH**/ ?>
